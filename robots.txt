@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://striveks.github.io/neurogenesis-of-desire/sitemap.xml
